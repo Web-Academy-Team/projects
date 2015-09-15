@@ -13,3 +13,7 @@
   <li><a href="https://gitter.im/Web-Academy-Team/DevOps?utm_source=share-link&utm_medium=link&utm_campaign=share-link">DevOps</a> - DevOps</li>
   <li><a href="https://gitter.im/Web-Academy-Team/Xamarin?utm_source=share-link&utm_medium=link&utm_campaign=share-link">Xamarin</a> - Cross-platform Application Development</li>
   </ul>
+## Правила / обмеження
+  На даний момент обмеження стосуються матів та поваги до людей з якими спілкуєтесь
+## Доступ в приватні чати
+  Доступ в приватні чати організовується через технічну підтримку <a href="web-academy.com.ua">Web Academy</a>
