@@ -6,6 +6,7 @@
   Тому було прийнято рішення створення чатів на основі Gitter.im
 ## Доступні публічні канали по технологіям
   <ul>
+  <li><a href="https://gitter.im/Web-Academy-Team/Generic?utm_source=share-link&utm_medium=link&utm_campaign=share-link">Generic</a> - загальний канал</li>
   <li><a href="https://gitter.im/Web-Academy-Team/iOS-Dev?utm_source=share-link&utm_medium=link&utm_campaign=share-link">iOS Dev</a> - платформа iOS</li>
   <li><a href="https://gitter.im/Web-Academy-Team/Android-Dev?utm_source=share-link&utm_medium=link&utm_campaign=share-link">Android Dev</a> - платформа Android</li>
   <li><a href="https://gitter.im/Web-Academy-Team/Python?utm_source=share-link&utm_medium=link&utm_campaign=share-link">Python</a> - мова Python</li>
