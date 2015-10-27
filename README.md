@@ -13,6 +13,7 @@
   <li><a href="https://gitter.im/Web-Academy-Team/Django?utm_source=share-link&utm_medium=link&utm_campaign=share-link">Django</a> - Python Web framework</li>
   <li><a href="https://gitter.im/Web-Academy-Team/DevOps?utm_source=share-link&utm_medium=link&utm_campaign=share-link">DevOps</a> - DevOps</li>
   <li><a href="https://gitter.im/Web-Academy-Team/Xamarin?utm_source=share-link&utm_medium=link&utm_campaign=share-link">Xamarin</a> - Cross-platform Application Development</li>
+  <li><a href="https://gitter.im/Web-Academy-Team/FrontEnd?utm_source=share-link&utm_medium=link&utm_campaign=share-link">FrontEnd</a> - HTML/CSS + JS and others JS frameworks</li>
   </ul>
 ## Правила / обмеження
   На даний момент обмеження стосуються матів та поваги до людей з якими спілкуєтесь
